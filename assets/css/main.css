@@ -1609,6 +1609,12 @@ input, select, textarea {
     margin: 0px auto;
 	}
 
+    #main .cta {
+			width: 100%;
+			text-align: center;
+			margin: 5em;
+		}
+
 		#main .thumb {
 			-moz-transition: opacity 1.25s ease-in-out;
 			-webkit-transition: opacity 1.25s ease-in-out;
